@@ -30,10 +30,10 @@ Beginner Data Scientist
 
 ### 🏆 Competitions
 
-* Masters of Arts: ML Challenge 6/52
-* MoreTech4.0 finalist
-* Я — профессионал (Artificial Intelligence) finalist
-* TenderHack, Rucode6 participant
+* Masters of Arts: ML Challenge 6/52 2023
+* Я — профессионал (Artificial Intelligence) finalist 2022-2023
+* MoreTech4.0 finalist 2022
+* TenderHack, Rucode6 participant 2022
 
 <h3> 🤝🏻 Connect with Me </h3>
 
