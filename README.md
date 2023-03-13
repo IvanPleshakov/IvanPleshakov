@@ -3,6 +3,7 @@ Beginner Data Scientist
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=IvanPleshakov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+
 ### :computer: ML stack
 
 <p align="left"> 
@@ -28,22 +29,19 @@ Beginner Data Scientist
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="70" height="50"/>
   </a>
   
-  <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="70" height="50"/>
-  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"        height="40"/>
+   </a>
   
   <a href="https://matplotlib.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="matplotlib" height="40"/>
   </a>
-</p>
-
-### :👨‍💻: Other skills
-
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="docker" height="40"/>
+  
+  <a href="https://seaborn.pydata.org" target="_blank"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
+
 
 ### 👨‍🎓 Education 
 
@@ -52,6 +50,7 @@ Beginner Data Scientist
 * Docker karpov.courses (*Since 2023*)
 * SQL Stepik (*Since 2023*)
 * Tinkoff Generation DL (*Since 2023*)
+
 
 ### 🏆 Competitions
 
