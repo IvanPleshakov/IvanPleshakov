@@ -49,6 +49,7 @@
 ### 🏆 Competitions
 
 * Nuclear IT hack (VK Group case) 1st🥇 place 2023
+* Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
 * Masters of Arts: ML Challenge 6/52 2023
 * Я — профессионал (Artificial Intelligence) finalist 2022-2023
 * MoreTech4.0 finalist 2022
