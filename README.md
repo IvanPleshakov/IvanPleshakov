@@ -39,7 +39,7 @@
 
 ### 👨‍🎓 Education 
 
-* NUST MISiS (*Since 2021*)
+* NUST MISIS (*Since 2021*)
 * Deep Learning School Advanced (*2022-2023*)
 * Tinkoff Generation DL (*2023*)
 * Docker karpov.courses (*2023*)
