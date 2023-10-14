@@ -40,10 +40,10 @@
 ### 👨‍🎓 Education 
 
 * NUST MISiS (*Since 2021*)
-* Deep Learning School Advanced (*Since 2022*)
-* Tinkoff Generation DL (*Since 2023*)
-* Docker karpov.courses (*Since 2023*)
-* SQL Stepik (*Since 2023*)
+* Deep Learning School Advanced (*2022-2023*)
+* Tinkoff Generation DL (*2023*)
+* Docker karpov.courses (*2023*)
+* SQL Stepik (*2023*)
 
 
 ### 🏆 Competitions
