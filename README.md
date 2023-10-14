@@ -47,7 +47,7 @@
 
 
 ### 🏆 Competitions
-* RuCode (Rosatom case) 1st🥇 place 2023
+* RuCode7 (Rosatom case) 1st🥇 place 2023
 * Nuclear IT hack (VK Group case) 1st🥇 place 2023
 * Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
 * Masters of Arts: ML Challenge 6/52 2023
