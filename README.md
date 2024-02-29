@@ -51,7 +51,6 @@
 * Nuclear IT hack (VK Group case) 1st🥇 place 2023
 * Goods Forecast Hack 2nd 🥈
 * Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
-* Masters of Arts: ML Challenge 6/52 2023
 * Я — профессионал (Artificial Intelligence) finalist 2022-2023
 
 
