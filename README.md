@@ -47,11 +47,15 @@
 
 
 ### 🏆 Competitions
-* RuCode7 (Rosatom case) 1st🥇 place 2023
-* Nuclear IT hack (VK Group case) 1st🥇 place 2023
-* Goods Forecast Hack 2nd 🥈
+* RuCode7 (address normalization) 1st🥇 place 2023
+* Nuclear IT hack (VK Group case) (TLS bot detection) 1st🥇 place 2023
+* Goods Forecast Hack (Predicting the absence of goods) 2nd 🥈
 * Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
+* GoAlgo MOEX 4/100
+* Цифровой Прорыв (Всероссийский) (Voice assistant) 5/25
+* Masters of Arts: ML Challenge (Image Classification) 6/52
 * Я — профессионал (Artificial Intelligence) finalist 2022-2023
+* TenderHack (price prediction), Rucode6, MarkingHack (demand prediction) participant
 
 
 <h3> 🤝🏻 Connect with Me </h3>
