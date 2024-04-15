@@ -50,7 +50,8 @@
 * IT Purple Hack (Alpha Bank case) (classification of client product clusters, CLTV) 1st🥇 place 2024
 * RuCode7 (address normalization) 1st🥇 place 2023
 * Nuclear IT hack (VK Group case) (TLS bot detection) 1st🥇 place 2023
-* Goods Forecast Hack (Predicting the absence of goods) 2nd 🥈
+* Gagarin Hack (Elvees Neotek case) (Detecting anomalies in the video stream) 2nd 🥈 place 2024
+* Goods Forecast Hack (Predicting the absence of goods) 2nd 🥈 place
 * Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
 * GoAlgo MOEX 4/100
 * Цифровой Прорыв (Всероссийский) (Voice assistant) 5/25
