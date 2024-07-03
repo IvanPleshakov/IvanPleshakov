@@ -52,6 +52,7 @@
 * Nuclear IT hack (VK Group case) (TLS bot detection) 1st🥇 place 2023
 * Gagarin Hack (Elvees Neotek case) (Detecting anomalies in the video stream) 2nd 🥈 place 2024
 * Goods Forecast Hack (Predicting the absence of goods) 2nd 🥈 place
+* Leaders of Digital Transformation, 3rd🥉 place 2023
 * Text Generation Detection: GPT or Human, Codenrock, 3rd🥉 place 2023
 * GoAlgo MOEX 4/100
 * Цифровой Прорыв (Всероссийский) (Voice assistant) 5/25
