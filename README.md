@@ -60,7 +60,7 @@
 * Я — профессионал (Artificial Intelligence) finalist 2022-2023
 * TenderHack (price prediction), Rucode6, MarkingHack (demand prediction) participant
 
-### 💬 My Telegram Channel about DS/ML
+### 💬 My Telegram channel about DS/ML
 <a href="https://t.me/pleshakovsky" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <h3> 🤝🏻 Connect with Me </h3>
