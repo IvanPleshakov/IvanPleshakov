@@ -44,9 +44,11 @@
 * Tinkoff Generation DL (*2023*)
 * Docker karpov.courses (*2023*)
 * SQL Stepik (*2023*)
+* Hard ML karpov.cources (*2024-2025*)
 
 
 ### 🏆 Competitions
+* Student Startup (FASIE)  winner🥇 2024
 * IT Purple Hack (Alpha Bank case) (classification of client product clusters, CLTV) 1st🥇 place 2024
 * RuCode7 (address normalization) 1st🥇 place 2023
 * Nuclear IT hack (VK Group case) (TLS bot detection) 1st🥇 place 2023
